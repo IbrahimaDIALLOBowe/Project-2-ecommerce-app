@@ -1,1 +1,3 @@
 # Project-2-ecommerce-app
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+An e-commerce website for trading games, consoles, and other electronics between users. This website will allow users to post an item for sale by requesting a specific barter or amount of money for that item. Users will be able to submit their own barter offers to any valid item for sale. Users can browse through items they want to buy or items they want to sell categorized by type. User Features: Create an account> Login> Create an offer> bid on an offer > View all their offers and bids.
